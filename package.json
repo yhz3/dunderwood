@@ -1,0 +1,13 @@
+{
+    "name": "anubis-sandbox",
+    "version": "1.0.0",
+    "description": "Node.js application serving a static html file",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^5.3.0",
+        "path": "^0.12.7"
+    }
+}
